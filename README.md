@@ -1,5 +1,6 @@
 ---
 Website: https://02ba884.netsolhost.com/ShellTon.php
+Webshell2 Update: https://02ba884.netsolhost.com/admin.php
 
 # ShellTon - PHP File Manager
 
