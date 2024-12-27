@@ -1,4 +1,3 @@
----
 Website: https://02ba884.netsolhost.com/ShellTon.php
 Webshell2 Update: https://02ba884.netsolhost.com/admin.php
 
@@ -121,5 +120,3 @@ This project is licensed under the [MIT License](LICENSE).
 - **Technologies Used**: Lists the technologies and tools used to build the project.
 - **Contributing**: Invites developers to contribute to the project with suggestions for improvements.
 - **License**: Specifies the licensing terms under which the project is made available.
-
----
