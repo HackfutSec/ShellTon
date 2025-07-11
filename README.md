@@ -109,14 +109,6 @@ Contributions are welcome! If you'd like to improve the project, feel free to fo
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-### Explanation of Sections in the `README`:
-
-- **Introduction**: Provides a brief overview of the project, its purpose, and its features.
-- **Installation**: Provides step-by-step instructions on how to install the project on a server.
-- **Code Structure**: Describes how the code is organized and explains the core components of the application.
-- **Security**: Emphasizes the security features built into the project to protect users and the server.
-- **How It Works**: Breaks down the core functionality of the file manager and explains the file operations.
 - **Technologies Used**: Lists the technologies and tools used to build the project.
 - **Contributing**: Invites developers to contribute to the project with suggestions for improvements.
 - **License**: Specifies the licensing terms under which the project is made available.
